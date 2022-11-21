@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "IBMPlexSansRegular"; 
+    src: url("../fonts/IBMPlexSans-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 400; 
+}
+
+@font-face {
+    font-family: "IBMPlexSansSemiBold"; 
+    src: url("../fonts/IBMPlexSans-SemiBold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 600; 
+}
+
+@font-face {
+    font-family: "IBMPlexSansBold"; 
+    src: url("../fonts/IBMPlexSans-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 700; 
+}
+
+@font-face {
+    font-family: "KronaOneRegular"; 
+    src: url("../fonts/KronaOne-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 400; 
+}

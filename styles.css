@@ -1,0 +1,9 @@
+@import url(/assets/stylesheet/varibles.css);
+@import url(/assets/stylesheet/fonts.css);
+@import url(/assets/stylesheet/global.css);
+@import url(/assets/stylesheet/container.css);
+
+@import url(/assets/stylesheet/components/buttons.css);
+
+@import url(/assets/stylesheet/components/header.css);
+@import url(/assets/stylesheet/components/mainpage.css);

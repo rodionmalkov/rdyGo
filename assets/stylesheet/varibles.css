@@ -1,0 +1,21 @@
+:root {
+    /* COLOR */
+
+    --white: #fff;
+    --black: #000;
+
+    --general: #BCBCBC;
+    --background: #3E3E3E;
+
+    --light-grey: #7D7D7D;
+    --grey: #696969;
+    --dark-grey: #1E1E1E;
+    --lime: #E3FC01;
+
+    /* FONTS */
+
+    --highlight: "KronaOneRegular", Helvetica, sans-serif;
+    --h1: "IBMPlexSansBold", Helvetica, sans-serif;
+    --h2: "IBMPlexSansSemiBold", Helvetica, sans-serif;
+    --main: "IBMPlexSansRegular", Helvetica, sans-serif;
+}
